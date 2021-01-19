@@ -4,7 +4,8 @@
 **StudentID** : 61070244 
 <br>
 **Name** : Sirilada Sonsomboon
-><br>*King mongkut's institute of technology ladkrabang*<br><br>
+
+>[<ins><br>*King mongkut's institute of technology ladkrabang*<br><br>](https://www.kmitl.ac.th)
 ```sh
-print("hello word")
+print("Hello Ladkrabang")
 ```
